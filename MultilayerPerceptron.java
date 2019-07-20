@@ -203,6 +203,7 @@ public class MultilayerPerceptron extends AbstractClassifier implements
     private int m_link;
 
     /** True if node is an input, False if it's an output. */
+    //ZYW 标记是输入还是输出
     private boolean m_input;
 
     /**
