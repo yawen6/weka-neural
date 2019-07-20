@@ -76,6 +76,9 @@ import weka.filters.unsupervised.attribute.NominalToBinary;
  * <p/>
  * 
  * <pre>
+ *
+ * <pre>
+ *学习率
  * -L &lt;learning rate&gt;
  *  Learning Rate for the backpropagation algorithm.
  *  (Value should be between 0 - 1, Default = 0.3).
