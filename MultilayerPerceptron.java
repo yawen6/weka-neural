@@ -17,7 +17,7 @@
  *    MultilayerPerceptron.java
  *    Copyright (C) 2000-2012 University of Waikato, Hamilton, New Zealand
  */
-
+//ZYW   BAO 
 package weka.classifiers.functions;
 
 import java.awt.BorderLayout;
